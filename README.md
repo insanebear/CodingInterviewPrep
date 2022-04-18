@@ -2,7 +2,9 @@
 ## Overview
 This is a repository for logging the coding interviews preps.
 
-Problem sets based on https://programmers.co.kr/
+Problem sets based on 
+- https://programmers.co.kr/
+- https://leetcode.com/
 
 ## Log Strategy
 ### Branches
